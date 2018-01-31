@@ -1,0 +1,26 @@
+.lian{height: 738px;}
+.lian .lian_a{height: 276px;}
+.lian .lian_a h4{color: #000;font-weight: bold;font-size: 25px;line-height: 16px;margin-bottom: 10px;text-align: center;font-weight: lighter;margin-top: 10px;}
+.lian .lian_a h2{text-align: center;color: #000;font-size: 30px;padding-top: 90px;}
+.lian .lian_a p{line-height: 18px;color: #979797;height:18px;overflow: hidden;text-align: center;font-size: 10px;}
+.lian .lian_b_1{width: 564px;height: 375px;background: #efefef;float: left;}
+.lian .lian_b_1 .zuo{float: left;margin-top: 20px;margin-left: 28px;}
+.lian .lian_b_1 .zuo input{height: 30px;width: 224px;border: #a0a0a0 2px solid;background: #eee;}
+.lian .lian_b_1 .you{float: left;margin-top: 20px;margin-left: 62px;}
+.lian .lian_b_1 .you input{height: 30px;width: 224px;border: #a0a0a0 2px solid;background: #eee;}
+.lian .lian_b_1 .zhong{float: left;margin-left: 28px;margin-top: 34px;}
+.lian .lian_b_1 .zhong input{height: 140px;width: 511px;border: #a0a0a0 2px solid;background: #eee;}
+.lian .lian_b_1 .tijiao {float: right;margin-top: 51px;margin-right: 27px;}
+.lian .lian_b_1 .tijiao p{width: 107px;height: 23px;border: 2px solid #a0a0a0;line-height: 23px;text-align: center;color: #333;}
+.lian .lian_b_2{float: left;width: 564px;height: 375px;border-left: 2px solid #000;margin-left: 33px;padding-left: 37px;}
+.lian .lian_b_2 .biaotu_1{height: 375px;line-height: 130px;width: 120px;float: left;}
+.lian .lian_b_2 .biaotu_2{float: left;width: 350px;height: 105px;margin-left: 30px;margin-top: 30px;}
+.lian .lian_b_2 .biaotu_2 .ci_a{width: 350px;height: 40px;}
+.lian .lian_b_2 .biaotu_2 .ci_a img{float: left;margin-top: 4px;}
+.lian .lian_b_2 .biaotu_2 .ci_a p{float: left;margin-left: 37px;}
+.header1 .nav .active{background: url(../img/三角形_04.jpg)no-repeat;background-position: 187px 64px;}
+
+
+
+
+

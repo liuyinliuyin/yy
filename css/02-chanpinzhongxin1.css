@@ -1,0 +1,36 @@
+.chanpin{width: 1200px;height: 390px;margin-top: 88px;}
+.chanpin .keting{float: left;width: 140px;height: 70px;margin-left: 180px;margin-top: 50px;}
+.chanpin .keting img{float: left;margin-left: 7px;}
+.chanpin .shu{float: left;color: #565555;width: 3px;font-weight: bold;margin-left: 4px;}
+.chanpin .keting p{width: 95px;color: #afafaf;text-transform: uppercase;font-size: 13px;}
+.chanpin .xian{width: 0px;height: 33px;border: 1px solid #7f7f7f;position: absolute;margin-left: 315px;margin-top: 60px;}
+.chanpin .shufang{float: left;width: 140px;height: 70px;margin-left: 30px;margin-top: 50px;}
+.chanpin .shufang img{float: left;margin-left: 7px;}
+.chanpin .shufang p{width: 65px;color: #afafaf;text-transform: uppercase;font-size: 13px;margin-left: 10px;}
+.chanpin .woshi{width: 188px;height: 188px;border-radius: 100px;border: 2px solid #000;position: absolute;margin-left: 475px;}
+.chanpin .woshi img{margin-top: 50px;margin-left: 50px;}
+.chanpin .woshi p{width: 65px;color: #afafaf;text-transform: uppercase;font-size: 13px;margin-left: 64px;margin-top: 12px;}
+.chanpin .canting{float: left;width: 140px;height: 70px;margin-left: 270px;margin-top: 50px;}
+.chanpin .canting img{float: left;margin-left: 7px;}
+.chanpin .canting p{width: 95px;color: #afafaf;text-transform: uppercase;font-size: 13px;margin-left:4px;margin-top: 10px;}
+.chanpin .xian1{width: 0px;height: 33px;border: 1px solid #7f7f7f;position: absolute;margin-left: 900px;margin-top: 60px;}
+.chanpin .weiyu{float: left;width: 140px;height: 70px;margin-left: 30px;margin-top: 50px;}
+.chanpin .weiyu img{float: left;margin-left: 7px;}
+.chanpin .weiyu p{width: 95px;color: #afafaf;text-transform: uppercase;font-size: 13px;margin-left:4px;margin-top: 10px;}
+.chanpin .shousuo{float: right;margin-top: 200px;}
+.chanpin .shousuo p{float: right;margin-left: 15px;font-weight: bold;}
+.chanpin .shousuo h3{position: absolute;margin-left: 165px;margin-top: -31px;}
+.shi{height: 996px;}
+.shi p{border-bottom: 1px dotted #a8a6a6;height: 50px;line-height: 50px;margin-top: 50px;}
+.header1 .nav .active{background: url(../img/三角形_04.jpg)no-repeat;background-position: 187px 64px;}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+.shouye{height: 440px;}
+.bao{height: 1798px;}
+.bao .bao_a{height: 322px;margin-top: 88px;float: left;width: 1200px;}
+.bao .bao_a_1{height: 0px;border: 2px solid #efefef;}
+.bao .bao_a_2{height: 132px;}
+.bao .bao_a .bao_a_2 ul li{float: left;padding-left:175px;padding-top: 15px;margin-bottom: 20px;}
+.bao .bao_a .bao_a_2 li a{font-size: 28px;display: block;color: #1b1b1b;line-height: 90px;margin-top: -15px;width: 165px;text-align: center;color: #807f7f;}
+.bao .bao_a .bao_a_2 li a:hover{background: url(../img/tishixian.gif) no-repeat center top;color: #000;}
+.bao .bao_a .zhinan{height: 185px;}
+.bao .bao_b{width: 1200px; height: 55px;float: left;}
+.bao .bao_b select{float: left; border-bottom: 2px solid #000;border-top: none;border-left: none;border-right: none;height: 44px;width: 120px;font-weight: bold;}
+.bao .bao_c{width: 1200px; height: 1183px;float: left;}
+.bao .bao_c .bao_c_1 .zuoz{float: left;}
+.bao .bao_c .bao_c_1{width: 1200px;height: 380px;background: #efefef;margin-bottom: 18px;}
+.bao .bao_c .bao_c_1 .zuoz h3{width: 525px;border-bottom: 1px solid #000;height: 44px;line-height: 44px;margin-left: 50px;padding-top: 90px;}
+.bao .bao_c .bao_c_1 .zuoz p{font-size: 10px;width: 680px;margin-left: 50px;color: #ababab;margin-top: 33px;}
+.bao .bao_c .bao_c_1 .zuoz h4{font-size: 18px;margin-left: 50px;margin-top: 100px;border: 2px solid #000;width: 115px;height: 21px;line-height: 21px;text-align: center;}
+.bao .bao_c .bao_c_1 img{float: right;}
+.bao .bao_c .bao_c_1 .zuoy{float: right;}
+.bao .bao_c .bao_c_1 .zuoy h3{width: 525px;border-bottom: 1px solid #000;height: 44px;line-height: 44px;margin-right: 20px;padding-top: 90px;}
+.bao .bao_c .bao_c_1 .zuoy p{font-size: 10px;width: 680px;margin-right: 80px;color: #ababab;margin-top: 33px;}
+.bao .bao_c .bao_c_1 .zuoy h4{font-size: 18px;margin-right: 20px;margin-top: 100px;border: 2px solid #000;width: 115px;height: 21px;line-height: 21px;text-align: center;}
+.bao .bao_d{height: 150px;width: 1200px;float: left;}
+.bao .bao_d .shang{width: 107px;height: 23px;border: 2px solid #313131;line-height: 23px;text-align: center;float: left;margin-left: 475px;margin-top: 50px;}
+.bao .bao_d .xia{width: 107px;height: 23px;border: 2px solid #313131;line-height: 23px;text-align: center;float: left;margin-left: 10px;margin-top: 50px;}
+.bao .bao_d img{margin-left: 10px;}
+.solutit2 .abc{display: block;}
+
+
+/*————————插件————————*/
+.wrap{ width:1120px; margin:0 auto;}
+.solutions{width:1200px;overflow: hidden}
+.solutions ul{width:1140px}
+.solutions li{height:300px;background: #fff; width:378px; float:left; position:relative;}
+.solutit{display: block;width:100%;}
+.solutit h4{color: #807f7f;font-size: 28px;text-align: center;font-weight: bold;line-height: 30px;margin-top: 35px;font-weight: lighter;margin-bottom: 150px;}
+.solutit .aaa{margin-left: 155px;border: 2px solid #c0c0c0;}
+.solutit2{width:340px;padding:0 20px;position:absolute;left:0px;top:0px;overflow: hidden;height:0px;background: #fff;z-index: 99;display: block;/*border-bottom:2px solid #000;*/}
+.solutit2 h4{color: #000;font-weight: bold;font-size: 25px;line-height: 16px;margin-bottom: 10px;text-align: center;margin-top:40px;font-weight: lighter;}
+.solutit2 h2{text-align: center;color: #000;display: block;font-size: 30px;margin-top: 60px;}
+.solutit2 p{line-height: 18px;color: #979797;height:18px;display: block;overflow: hidden;text-align: center;font-size: 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+

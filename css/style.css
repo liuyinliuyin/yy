@@ -1,0 +1,42 @@
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,dl,dd,input,option,select,textarea,option{margin:0;padding:0;}
+ul,ol{list-style:none;}
+a{text-decoration:none;color:#666;}
+a:hover{color:#d8d8d8;}
+img,textarea,button{border: none;outline: none;}
+input{outline: none;}
+boby{font-family:arial,"Microsoft YaHei","宋体";position: relative;}
+.inner{width:1200px;margin:0 auto;}
+
+
+/*---------头部---------*/
+.shouye{width: 1919px;height: 440px;margin: 0 auto;}
+.noryaY{width: 1920px;height: 90px;background: #eee;margin: 0 auto;}
+.noryaY2 .zuo{margin-top: 24px;float: left;margin-left: 480px;}
+.header1{width: 1720px; height: 75px;border-bottom: 1px solid #000;padding-left: 200px;line-height: 60px;margin: 0 auto;}
+.header1 ul li{float: left;padding-left: 150px;padding-top: 15px;}
+.header1 li a{font-size: 22px;display: block;color: #1b1b1b;}
+.header1 li a:hover{background: url(../img/三角形_04.jpg) no-repeat center bottom;color: #ff6b09;}
+.deng .kaiguan1{position: absolute;margin-top: -169px;margin-left: 75px;}
+.deng .kaiguan2{margin-left: 1740px;position: absolute;}
+
+
+
+
+/*---------尾区---------*/
+.weiqu{height: 545px;width: 100%;margin: 0 auto;}
+.norya{width: 1920px;height: 90px;background: #eee;margin: 0 auto;}
+.weiqu .norya1 .zuo{margin-top: 24px;float: left;margin-right: 80px;}
+.weiqu .norya1 p{float: left;margin-top: 34px;border-bottom: 1px solid #000000;height: 37px;line-height: 37px;}
+.weiqu .norya1 .anniu{width: 108px;height: 22px;border: 1px solid #313131;float: left;margin-top: 40px;margin-left: 133px;line-height: 22px;text-align: center;}
+.weiqu .norya1 .anniu a{margin-right: 20px;}
+.weiqu .norya1 .anniu img{float: left;margin-left: 5px;position: absolute;    margin-top: 5px;}
+.info1{height: 288px;width: 1211px;border: 1px solid #484848;float: left;margin-top: 40px;margin-bottom: 41px;}
+.info1 .info_one p{font-size: 14px;color: #333;margin-left: 35px;}
+.info1 .info_one{float: left;}
+.info1 .du1{margin-top: 50px;}
+.info1 .du2{margin-top: 16px;}
+.info1 .du3{margin-top: 28px;}
+.info1 .info_two{float: right;}
+.info1 .ma{margin-right: 30px;margin-top: 64px;float: left;}
+.info1 .info_two p{font-size: 12px;margin-left: 50px;margin-top: 5px;}
+.info .info2 p{font-size: 10px;color: #9b9b9b;text-align: center;}

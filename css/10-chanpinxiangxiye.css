@@ -1,0 +1,80 @@
+.chan{height: 710px;border-bottom: 1px solid #969494;}
+.xiang{height: 305px;}
+.chan .yang_a{height: 50px;line-height: 50px;position: absolute;}
+.chan .yang_a p{float: left;color: #b3afaf;font-size: 12px;margin-top: 10px;}
+.chan .yang_a a{float: left;color: #b3afaf;font-size: 12px;}
+.chan .yang_a a:hover{color: #000;}
+
+/*放大镜图片*/
+* { margin: 0; padding: 0; }ul, li { list-style: none; }
+.fangda{float: left;}
+#magnifier { position: relative;width: 450px;margin: 120px 0 0 70px;}
+.small-box {position: relative;width: 450px;height: 450px;margin-bottom: 20px;border: 1px solid #eee;}
+.small-box img {display: block;}
+.small-box .hover {display: none;position: absolute;left: 0;top: 0;width: 200px;height: 200px;border: 1px solid #aaa;background: #0099ff;opacity: .5;filter: alpha(opacity: 50);cursor: move;}
+.thumbnail-box {position: relative;width: 100%;}
+.thumbnail-box .btn {position: absolute;top: 50%;width: 22px;height: 32px;margin-top: -16px;}
+.thumbnail-box .btn-prev {left: 0;background: url(images/btn_prev.png) no-repeat;}
+.thumbnail-box .btn-next {right: 0;background: url(images/btn_next.png) no-repeat;}
+.thumbnail-box .list {overflow: hidden;width: 390px;margin: 0 auto;}
+.thumbnail-box .list .item {float: left;margin: 0 10px;}
+.thumbnail-box .list .item-cur {}
+.thumbnail-box .list .item img {border: 2px solid #fff;}
+.thumbnail-box .list .item-cur img {border: 2px solid #e53e41;}
+.big-box {display: none;overflow: hidden;position: absolute;left: 451px;top: 0;width: 540px;height: 540px;border: 1px solid #e4e4e4;}
+.big-box img {display: block;}
+
+
+.chan .chan_a{width: 426px;height: 665px;float: right;margin-right: 85px;}
+.chan .chan_a .chan_a_1{margin-top: 89px;}
+.chan .chan_a .chan_a_1 img{margin-top: 41px;}
+.chan .chan_a .chan_a_1 p{float: right;font-weight: bold;margin-top: 50px;}
+.chan .chan_a .chan_a_1 h3{position: absolute;margin-top: -36px;margin-left: 230px;}
+.chan .chan_a .chan_a_2 h3{font-weight: bold;margin-top: 20px;}
+.chan .chan_a .chan_a_2 p{font-weight: bold;}
+.chan .chan_a .chan_a_3 {margin-top: 30px;}
+.chan .chan_a .chan_a_3 p{font-size: 14px;}
+.chan .chan_a .chan_a_4{margin-top: 20px;}
+.chan .chan_a .chan_a_4 p{float: left;font-size: 14px;}
+.chan .chan_a .chan_a_4 input{margin-left: 330px;width: 35px;text-align: center;}
+.chan .chan_a .chan_a_5 p:nth-child(1){font-size: 12px;margin-left: 48px;margin-top: 56px;}
+.chan .chan_a .chan_a_5 p:nth-child(2){width: 426px;height: 54px;background: #000;color: #fff;line-height: 54px;text-align: center;margin-top: 31px;}
+.chan .chan_a .chan_a_6 p{font-size: 13px;margin-top: 40px;}
+.chan .chan_a .chan_a_6 select{width: 426px;height: 54px;margin-top: 10px;}
+.chan .chan_a .chan_a_6 h6{font-size: 10px;font-weight: lighter;margin-top: 10px;}
+
+
+
+/*选项卡左右切换*/
+*{margin:0;padding:0;list-style-type:none;}
+
+a,img{border:0;}
+
+body{font:12px/180% Arial, Helvetica, sans-serif,"宋体";}
+
+a{color:#333;text-decoration:none;}
+
+a:hover{color:#3366cc;text-decoration:underline;}
+
+/* demo */
+.demo{width:686px;position:relative;}
+.demo h2{font-size:16px;height:44px;color:#3366cc;margin-top:20px;}
+.demo dl dt{font-size:14px;color:#000;margin-top:30px;font-weight:800;}
+.demo dl dt,.demo dl dd{line-height:22px;}
+/* tabbtn */
+.tabbtn{height:30px;background:url(images/tabbg.gif) repeat-x;}
+.tabbtn li{float:left;position:relative;margin:0 0 0 -1px;}
+.tabbtn li a{display:block;float:left;height:30px;line-height:30px;overflow:hidden;width:108px;text-align:center;font-size:15px;cursor:pointer;}
+.tabbtn li.current{border-top:solid 1px #c5c5c5;}
+.tabbtn li.current a{border-top:solid 2px #000;height:27px;line-height:27px;background:#fff;color:#000;font-weight:800;text-decoration:none;}
+/* tabcon */
+.tabcon{border-width:0 1px 1px 1px;border-color:#ddd;border-style:solid;position:relative;/*必要元素*/height:180px;overflow:hidden;border: none;}
+.tabcon .subbox{position:absolute;/*必要元素*/left:0;top:0;}
+.tabcon .sublist{padding:5px 10px;height:170px;}
+/* leftcon */
+#leftcon .subbox{width:9999em;}
+#leftcon .subbox .sublist{float:left;width:664px;}
+/* sublist */
+.sublist{padding:10px;}
+.sublist li{height:28px;line-height:28px;font-size:12px;}
+.sublist li span{margin:0 5px 0 0;font-family:"宋体";font-size:12px;font-weight:400;color:#ddd;}

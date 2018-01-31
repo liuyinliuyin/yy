@@ -1,0 +1,69 @@
+.header{width: 1920px;height: 622px;margin: 0 auto;}
+.header1{height: 75px;border-bottom: 1px solid #000;padding-left: 200px;line-height: 60px;margin: 0 auto;}
+.header1 ul li{float: left;padding-left: 150px;padding-top: 15px;}
+.header1 li a{font-size: 22px;display: block;color: #1b1b1b;}
+.header1 li a:hover{background: url(../img/三角形_04.jpg) no-repeat center bottom;color: #ff6b09;}
+.header1 .nav .active{background: url(../img/三角形_04.jpg)no-repeat;background-position: 165px 64px;}
+.banner{height: 1746px;}
+.banner_one{text-align: center;padding-top: 85px;}
+.banner_one h2{font-weight: lighter;font-size: 28px;padding-bottom: 5px;}
+.banner_one p{font-size: 12px;color: #727272;}
+.banner_two{background: #fff;height: 1540px;}
+.banner_two .bian{width: 660px;height: 1073px;border: 1px solid #1B1B1B;float: right;margin-top: 67px;position: absolute;margin-left: 538px;background: #fff;}
+.banner_two .bian .gan{height: 123px;width: 10px;position: relative;margin-top: 443px;margin-left: -2px;background: #fff;}
+.banner_two .bian .gan1{height: 123px;width: 10px;position: relative;margin-top: 364px;margin-left: -2px;background: #fff;}
+.banner_two .tu_1{padding-left: 38px;padding-top: 147px;float: left;position: relative;}
+.banner_two .tu_1 .a_a{display: none;width:542px ;height:364px ;position: absolute;left:38px;top: 147px;background-color: rgba(0,0,0,.5);}
+.banner_two .tu_1:hover .a_a{display: block;}
+.banner_two .tu_2{float: right;padding-top: 147px;padding-right: 38px;position: relative;}
+.banner_two .tu_2 .a_b{display: none;width:504px ;height:425px ;position: absolute;left:0px;top: 147px;background-color: rgba(0,0,0,.5);}
+.banner_two .tu_2:hover .a_b{display: block;}
+.banner_two .tu_3{padding-left: 38px;padding-top: 55px;float: left;position: relative;}
+.banner_two .tu_3 .a_c{display: none;width:541px ;height:364px ;position: absolute;left:38px;top: 55px;background-color: rgba(0,0,0,.5);}
+.banner_two .tu_3:hover .a_c{display: block;}
+.banner_two .tu_4{float: right;padding-top: 55px;padding-right: 38px;position: relative;}
+.banner_two .tu_4 .a_d{display: none;width:504px ;height:365px ;position: absolute;left:0px;top: 55px;background-color: rgba(0,0,0,.5);}
+.banner_two .tu_4:hover .a_d{display: block;}
+.banner_two .tu_5{padding-left: 38px;padding-top: 55px;float: left;position: relative;}
+.banner_two .tu_5 .a_e{display: none;width:542px ;height:365px ;position: absolute;left:39px;top: 55px;background-color: rgba(0,0,0,.5);}
+.banner_two .tu_5:hover .a_e{display: block;}
+.banner_two .tu_6{float: right;margin-top: -45px; padding-right: 170px;position: inherit;}
+.datu_1{width: 1920px;height: 420px;margin: 0 auto;}
+.banner2{height: 1797px;background: #fff;}
+.banner_three{margin-top: -115px;}
+.banner_three .banner_one h1{margin-top: 85px;}
+.banner_four{margin-top: 65px;}
+.banner_four .tu_7{height: 450px;}
+.banner_four .tu_7 img{float: left;}
+.banner_four .tu_7 .kuang{width: 297px;height: 260px;border: 2px solid #676767;float: left;margin-top: 59px;border-left: none;}
+.banner_four .tu_7 .kuang h1{margin-left: 59px;margin-top: 44px;}
+.banner_four .tu_7 .kuang .tiao{margin-left: 59px;color: #535353;margin-top: 25px;font-size: 20px;}
+.banner_four .tu_7 .kuang .tiao1{margin-left: 59px;color: #535353;}
+.banner_four .tu_7 .kuang .tiao2{margin-left: 59px;margin-top: 47px;border: 1px solid #a3a3a3;width: 160px;background: #535353;}
+.banner_four .tu_7 .kuang .tiao2 a{color: #fff;}
+.banner_four .biaotu_1{position: absolute;margin-left: -60px;margin-top: 257px;}
+.banner_four .tu_8{height: 450px;}
+.banner_four .tu_8 img{float: right;}
+.banner_four .tu_8 .kuang{width: 297px;height: 260px;border: 2px solid #676767;float: right;margin-top: 59px;border-right: none;}
+.banner_four .tu_8 .kuang h1{margin-left: 59px;margin-top: 44px;}
+.banner_four .tu_8 .kuang .tiao{margin-left: 59px;color: #535353;margin-top: 25px;font-size: 20px;}
+.banner_four .tu_8 .kuang .tiao1{margin-left: 59px;color: #535353;}
+.banner_four .tu_8 .kuang .tiao2{margin-left: 59px;margin-top: 47px;border: 1px solid #a3a3a3;width: 160px;background: #535353;}
+.banner_four .tu_8 .kuang .tiao2 a{color: #fff;}
+.banner_four .biaotu_2{position: absolute;margin-left: 160px;margin-top: 257px;}
+.banner3{height:718px;margin-top:150px;}
+.banner3 .xian{width: 1920px;height: 1px; border: 2px solid #000000;margin-top: 245px;position: absolute;background: #000000;}
+.banner3 img{position: relative;margin-left: 50px;margin-top: 125px;float: left;}
+.banner3 .banner_five{float: left;margin-top: 530px;margin-left: -825px;}
+.banner3 .banner_five p{color: #636262;margin-bottom: 5px;text-align: center;}
+
+
+
+
+
+
+
+
+
+
+

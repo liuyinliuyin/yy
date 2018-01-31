@@ -1,0 +1,13 @@
+.quan{height: 845px;}
+.quan .quan_a{height: 90px;line-height: 90px;}
+.quan .quan_a p{float: left;color: #b3afaf;font-size: 12px;margin-top: 10px;}
+.quan .quan_a a{float: left;color: #b3afaf;font-size: 12px;}
+.quan .quan_a a:hover{color: #000;}
+.quan .quan_b{height: 100px;width: 455px;float: right;}
+.quan .quan_b .quan_b_1{margin-top: -55px;float: right;}
+.quan .quan_b .quan_b_1 img{margin-top: 41px;}
+.quan .quan_b .quan_b_1 p{float: right;font-weight: bold;margin-top: 50px;}
+.quan .quan_b .quan_b_1 h3{position: absolute;margin-top: -38px;margin-left: 230px;}
+.quan .quan_b .quan_b_1 h4{color: #d4d4d4;margin-top: -44px;margin-left: 22px;}
+.quan .quan_c img{margin-left: 210px;}
+
